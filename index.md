@@ -1,9 +1,7 @@
 ---
-title: Welcome to my website
 layout: page
-feature_image: "https://picsum.photos/1300/400?image=989"
-feature_text: |
-  ## Hello world
+title: Drinking Still
+feature_image: 'https://picsum.photos/1300/400?image=989'
+feature_text: ''
 ---
-
-There isn't much going on here yet, but watch this space
+Bringing some variety to a world where we sit at home each day. Drinking, still.
