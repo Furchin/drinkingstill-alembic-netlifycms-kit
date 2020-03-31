@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About this website
+title: Variety is the spice of life
 ---
+Restaurants and bars are shut down. Movie theaters are closed. Workplaces are closed. Schools are closed. What can you do? Drink!
 
-I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
+Join us a
