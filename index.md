@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Drinking Still
-feature_image: 'https://picsum.photos/1300/400?image=989'
+title: Drinking, Still
+feature_image: ''
 feature_text: ''
 ---
-Bringing some variety to a world where we sit at home each day. Drinking, still.
 
-[See what's on tap.](/blog)
+<a class="twitter-timeline" href="https://twitter.com/DrinkingStill?ref_src=twsrc%5Etfw">Tweets by DrinkingStill</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
